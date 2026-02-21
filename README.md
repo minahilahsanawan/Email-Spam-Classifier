@@ -61,8 +61,9 @@ The classification workflow follows a standard text classification pipeline:
    - Ham vs Spam probability bars
 ---
 
-## Authors
+## Author
 
 Minahil Ahsan Awan   
 Email: minahilahsaanawan@gmail.com  
 LinkedIn: https://linkedin.com/in/minahilahsaanawan
+
