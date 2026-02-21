@@ -1,6 +1,7 @@
 # Email Spam Classifier (Spam vs Ham)
 
 A machine learning project that classifies emails as Spam or Ham. The pipeline preprocesses raw email text, extracts TF IDF features, and uses a trained classifier to predict the label with probability based confidence. A Flask web interface provides real time classification through a simple form and a JSON API.
+
 <img width="954" height="826" alt="image" src="https://github.com/user-attachments/assets/cc7945de-0c23-48b5-a29f-52439de0f0a4" />
 
 ---
@@ -67,5 +68,6 @@ The classification workflow follows a standard text classification pipeline:
 Minahil Ahsan Awan   
 Email: minahilahsaanawan@gmail.com  
 LinkedIn: https://linkedin.com/in/minahilahsaanawan
+
 
 
